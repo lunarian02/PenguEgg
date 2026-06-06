@@ -6,7 +6,9 @@ PenguEgg transforms battery status into a small virtual pet, making everyday sys
 
 <p align="center">
   <img src="PNGs/egg_frame0.png" width="110">
+  <img src="PNGs/egg_cracked.png" width="110">
   <img src="PNGs/mid_frame0.png" width="110">
+  <img src="PNGs/midhi_frame0.png" width="110">
   <img src="PNGs/high_frame0.png" width="110">
 </p>
 
