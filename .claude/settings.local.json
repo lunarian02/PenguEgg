@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(pkill -f \"PenguEgg\")",
+      "Bash(open \"/Users/stevejang/Library/Developer/Xcode/DerivedData/PenguEgg-brwwfnogbvlomgeiasazlgreyecy/Build/Products/Debug/PenguEgg.app\")"
+    ]
+  }
+}
